@@ -10,8 +10,13 @@ First create a filed called 'config.cfg' with the following (file not included f
 
 
 ADDRESS=localhost
+
 PORT=22
+
 USERNAME=username
+
 PASSWORD=password
+
 REMOTE_WORKING_DIR=/home/username/Desktop/
+
 REMOTE_TARGET_DIR=remote_folder
