@@ -1,15 +1,5 @@
 import subprocess
 
-# first create a config.cfg:
-# (this file will not be included, for obvious reasons)
-#
-# ADDRESS=localhost
-# PORT=22
-# USERNAME=username
-# PASSWORD=password
-# REMOTE_WORKING_DIR=/home/username/Desktop/
-# REMOTE_TARGET_DIR=remote_folder
-
 
 errored = False
 def printErrorsIfPresent(errorsIn):
